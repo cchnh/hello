@@ -1,0 +1,55 @@
+[33mcommit 5a20623717c25393a8642a86f4bbc3f973c47b54[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: cchnh <cchnh@naver.com>
+Date:   Fri Nov 5 00:13:59 2021 +0900
+
+    2
+
+[33mcommit 83c80b447abfca086dfacfab282b94d44b8965b8[m
+Author: cchnh <cchnh@naver.com>
+Date:   Fri Nov 5 00:11:43 2021 +0900
+
+    hidden
+
+[33mcommit 6831d1bd83a35103049a3cd5e1b5a94c8da9971e[m
+Author: cchnh <cchnh@naver.com>
+Date:   Fri Nov 5 00:00:50 2021 +0900
+
+    dream
+
+[33mcommit e806d5356ad3e5e0df7be5741d4110fdd5623abb[m
+Author: cchnh <cchnh@naver.com>
+Date:   Thu Nov 4 00:20:03 2021 +0900
+
+    fake
+
+[33mcommit 1bcb73094d4e1b383c666c10090a8e88dcfe36b7[m[33m ([m[1;32mmy-idea[m[33m)[m
+Author: cchnh <cchnh@naver.com>
+Date:   Wed Nov 3 23:53:49 2021 +0900
+
+    another universe
+
+[33mcommit 2a0d36f6d507e024cc3cd2b75f7cc06ddf877a00[m
+Author: cchnh <cchnh@naver.com>
+Date:   Wed Nov 3 23:47:17 2021 +0900
+
+    Revert "hi3"
+    
+    This reverts commit dbdbc651f252fa17f38d0fbcec20b82a567210b7.
+
+[33mcommit dbdbc651f252fa17f38d0fbcec20b82a567210b7[m
+Author: cchnh <cchnh@naver.com>
+Date:   Wed Nov 3 23:38:38 2021 +0900
+
+    hi3
+
+[33mcommit 782221f6141e8fca76143efd19fde46567833c74[m
+Author: cchnh <cchnh@naver.com>
+Date:   Wed Nov 3 23:38:00 2021 +0900
+
+    hi2
+
+[33mcommit cdaff0b01499e3a95840447d09f923756bdd0fff[m
+Author: cchnh <cchnh@naver.com>
+Date:   Wed Nov 3 23:37:19 2021 +0900
+
+    hi
